@@ -1,0 +1,15 @@
+﻿  classes.cpp
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(244): warning C4018: '<': signed/unsigned mismatch
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(253): warning C4018: '<': signed/unsigned mismatch
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(257): warning C4018: '<': signed/unsigned mismatch
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(290): warning C4018: '<': signed/unsigned mismatch
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(331): warning C4018: '<': signed/unsigned mismatch
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(334): warning C4018: '<': signed/unsigned mismatch
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(377): warning C4018: '<': signed/unsigned mismatch
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(387): warning C4018: '<': signed/unsigned mismatch
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(446): warning C4018: '<': signed/unsigned mismatch
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(462): warning C4018: '<': signed/unsigned mismatch
+d:\2nd year\1st term\data structures\student attendance management system\project1\classes.cpp(471): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\2nd year\1st Term\Data structures\Student Attendance management system\Debug\Project1.exe
